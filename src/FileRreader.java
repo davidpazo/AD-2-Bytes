@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-
+/** Ejemplo de File reader y FileWriter, otro metodo para copiar archivos y documentos o leerlos al igual que el DataInput**/
 
 public class FileRreader {
     public static void main(String[] arg){
